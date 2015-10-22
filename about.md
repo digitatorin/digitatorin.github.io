@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Digitator is an experimental space. We are a group, collective, pack, multiplicities of identities, forms.
-
-Click here to <a href="{{ site.baseurl }}/multiply/">multiply</a>
-
-
+digitator is an experimental space, engaging with art, culture and technology.
